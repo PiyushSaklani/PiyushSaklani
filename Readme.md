@@ -2,9 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=24&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=108&lines=Hey+I'm+a)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=24&pause=1000&color=F7F7F7&width=435&lines=Programmer;Developer;Tech+Learner)](https://git.io/typing-svg)
 
 ## About me
-I am currently pursuing a B.Tech in Computer Science with a specialization in Data Science.
-
-In terms of programming languages, I am skilled in Python, Java, SQL, JavaScript, TypeScript, HTML/CSS, and R. I have worked with frameworks such as React, Node.js, Vue.js, Flutter, FastAPI, and Express.js. I am familiar with Git, Docker, Google Cloud Platform, and IDEs such as VS Code, PyCharm, IntelliJ, and Eclipse.
+Hi there, I'm Piyush Saklani, a programmer currently pursuing my B.Tech in Computer Science. I have a strong interest in software development and enjoy building applications that solve real-world problems. I am constantly exploring new tools and technologies to enhance my skills. Through my academic coursework and personal projects.
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=18&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=78&lines=Skilled+in)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=18&duration=4000&pause=0100&color=F7F7F7&width=435&lines=Python;React;MongoDB;React+Native)](https://git.io/typing-svg)
 <div>
