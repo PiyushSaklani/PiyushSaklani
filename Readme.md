@@ -1,6 +1,11 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=24&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=90&lines=Hey+I'm)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=24&pause=1000&color=F7F7F7&width=435&lines=Programmer;Developer;Tech+Learner)](https://git.io/typing-svg)
 
+## About me
+I am currently pursuing a B.Tech in Computer Science with a specialization in Data Science at NIIT University in Neemrana, Rajasthan.
+
+In terms of programming languages, I am skilled in Python, Java, SQL, JavaScript, TypeScript, HTML/CSS, and R. I have worked with frameworks such as React, Node.js, Vue.js, Flutter, FastAPI, and Express.js. I am familiar with Git, Docker, Google Cloud Platform, and IDEs such as VS Code, PyCharm, IntelliJ, and Eclipse.
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=18&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=78&lines=Skilled+in)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=18&duration=4000&pause=0100&color=F7F7F7&width=435&lines=Python;React;MongoDB;React+Native)](https://git.io/typing-svg)
 <div>
   <table>
@@ -22,6 +27,10 @@
     </tr>
   </table>
 </div>
+
+### Connect with Me
+<a href="https://www.linkedin.com/in/piyushsaklani/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:saklani302@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 ## 
 
