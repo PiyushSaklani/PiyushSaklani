@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=24&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=90&lines=Hey+I'm)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=24&pause=1000&color=F7F7F7&width=435&lines=Programmer;Developer;Tech+Learner)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=24&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=108&lines=Hey+I'm+a)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=24&pause=1000&color=F7F7F7&width=435&lines=Programmer;Developer;Tech+Learner)](https://git.io/typing-svg)
 
 ## About me
 I am currently pursuing a B.Tech in Computer Science with a specialization in Data Science at NIIT University in Neemrana, Rajasthan.
@@ -28,9 +28,11 @@ In terms of programming languages, I am skilled in Python, Java, SQL, JavaScript
   </table>
 </div>
 
+
 ### Connect with Me
-<a href="https://www.linkedin.com/in/piyushsaklani/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:saklani302@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/piyushsaklani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:saklani302@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://piyushsaklani.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/website-E8E8E8.svg?style=for-the-badge&logo=About.me&logoColor=black"/></a>
 
 ## 
 
