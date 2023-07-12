@@ -1,3 +1,7 @@
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=24&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=90&lines=Hey+I'm)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=24&pause=1000&color=F7F7F7&width=435&lines=Programmer;Developer;Tech+Learner)](https://git.io/typing-svg)
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=18&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=78&lines=Skilled+in)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=18&duration=4000&pause=0100&color=F7F7F7&width=435&lines=Python;React;MongoDB;React+Native)](https://git.io/typing-svg)
 <div>
   <table>
     <tr>
@@ -17,4 +21,11 @@
       <td align="center"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/adbe94b3-84e8-4944-8c66-62c0bc6585fa"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/6baee88c-51b2-4151-ac61-b732283023ff"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/de86ccd3-85cc-4d83-bc7a-03b2a7bb9ba6"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/54411026-60d4-47ef-b7fb-5177845189ae"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/cd92a827-8518-4c22-bd41-a42decb5d732"><img width=30 height=30 src="https://github.com/PiyushSaklani/PiyushSaklani/assets/102040741/c4c98259-dc4e-4538-a634-6395785aeb34"></td>
     </tr>
   </table>
+</div>
+
+## 
+
+<div width=100%, align="center", display="flex" >
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaklani&theme=dark&hide_border=true)
 </div>
