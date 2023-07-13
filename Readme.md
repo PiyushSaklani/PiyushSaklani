@@ -4,7 +4,6 @@
 ## About me
 Hi there, I'm Piyush Saklani, a programmer currently pursuing my B.Tech in Computer Science. I have a strong interest in software development and enjoy building applications that solve real-world problems. I am constantly exploring new tools and technologies to enhance my skills. Through my academic coursework and personal projects.
 
-:)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=200&size=18&duration=0001&pause=1000&color=F7F7F7&repeat=false&width=78&lines=Skilled+in)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=18&duration=4000&pause=0100&color=F7F7F7&width=435&lines=Python;React;MongoDB;React+Native)](https://git.io/typing-svg)
 <div>
   <table>
